@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CTVoicer.Negocio.Context;
 using CTVoicer.Entidades;
+using Microsoft.AspNetCore.Http.Extensions;
 
 namespace CTVoicer.API.Controllers
 {
@@ -15,7 +16,7 @@ namespace CTVoicer.API.Controllers
     public class FrotaController : ControllerBase
     {
         private readonly CTVoicerContext _context;
-
+        
         public FrotaController(CTVoicerContext context)
         {
             _context = context;
@@ -101,6 +102,11 @@ namespace CTVoicer.API.Controllers
         private bool FrotaExists(int id)
         {
             return _context.Frotas.Any(e => e.IdFrota == id);
+        }
+
+        private bool FrotaExists(string nome)
+        {
+            return _context.Frotas.Any(e => e.Nome == nome);
         }
     }
 }

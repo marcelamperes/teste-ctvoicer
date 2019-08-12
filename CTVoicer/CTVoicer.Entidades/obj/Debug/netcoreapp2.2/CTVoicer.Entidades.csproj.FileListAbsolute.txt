@@ -1,0 +1,9 @@
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Entidades\bin\Debug\netcoreapp2.2\CTVoicer.Entidades.deps.json
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Entidades\bin\Debug\netcoreapp2.2\CTVoicer.Entidades.dll
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Entidades\bin\Debug\netcoreapp2.2\CTVoicer.Entidades.pdb
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Entidades\obj\Debug\netcoreapp2.2\CTVoicer.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Entidades\obj\Debug\netcoreapp2.2\CTVoicer.Entidades.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Entidades\obj\Debug\netcoreapp2.2\CTVoicer.Entidades.AssemblyInfo.cs
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Entidades\obj\Debug\netcoreapp2.2\CTVoicer.Entidades.dll
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Entidades\obj\Debug\netcoreapp2.2\CTVoicer.Entidades.pdb
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Entidades\obj\Debug\netcoreapp2.2\CTVoicer.Entidades.csprojAssemblyReference.cache

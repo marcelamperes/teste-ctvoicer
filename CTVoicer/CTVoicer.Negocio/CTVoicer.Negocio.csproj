@@ -18,4 +18,9 @@
     <ProjectReference Include="..\CTVoicer.Entidades\CTVoicer.Entidades.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Servicos\" />
+    <Folder Include="Template\" />
+  </ItemGroup>
+
 </Project>

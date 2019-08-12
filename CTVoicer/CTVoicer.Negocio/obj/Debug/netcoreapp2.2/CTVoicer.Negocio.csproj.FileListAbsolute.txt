@@ -1,0 +1,14 @@
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\bin\Debug\netcoreapp2.2\CTVoicer.Negocio.deps.json
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\bin\Debug\netcoreapp2.2\CTVoicer.Negocio.runtimeconfig.json
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\bin\Debug\netcoreapp2.2\CTVoicer.Negocio.runtimeconfig.dev.json
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\bin\Debug\netcoreapp2.2\CTVoicer.Negocio.dll
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\bin\Debug\netcoreapp2.2\CTVoicer.Negocio.pdb
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\bin\Debug\netcoreapp2.2\CTVoicer.Entidades.dll
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\bin\Debug\netcoreapp2.2\CTVoicer.Entidades.pdb
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\obj\Debug\netcoreapp2.2\CTVoicer.Negocio.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\obj\Debug\netcoreapp2.2\CTVoicer.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\obj\Debug\netcoreapp2.2\CTVoicer.Negocio.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\obj\Debug\netcoreapp2.2\CTVoicer.Negocio.AssemblyInfo.cs
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\obj\Debug\netcoreapp2.2\CTVoicer.Negocio.csproj.CopyComplete
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\obj\Debug\netcoreapp2.2\CTVoicer.Negocio.dll
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Negocio\obj\Debug\netcoreapp2.2\CTVoicer.Negocio.pdb

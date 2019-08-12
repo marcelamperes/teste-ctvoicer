@@ -28,6 +28,20 @@ namespace CTVoicer.API.Controllers
             return await _context.Veiculos.ToListAsync();
         }
 
+        // GET: api/Veiculo/5982759827349683748967
+        [HttpGet("{chassi}")]
+        public async Task<ActionResult<IEnumerable<Veiculo>>> GetVeiculos(string chassi)
+        {
+            var veiculos = _context.Veiculos.Where(v => v.Chassi.Contains(chassi)).ToListAsync();
+
+            if (veiculos == null)
+            {
+                return NotFound();
+            }
+
+            return await veiculos;
+        }
+
         // GET: api/Veiculo/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Veiculo>> GetVeiculo(int id)
@@ -49,6 +63,10 @@ namespace CTVoicer.API.Controllers
             if (id != veiculo.IdVeiculo)
             {
                 return BadRequest();
+            }
+            if(this.VeiculoExists(veiculo.Chassi))
+            {
+                return BadRequest("Já existe um veículo com esse Chassi. Verifique!");
             }
 
             _context.Entry(veiculo).State = EntityState.Modified;
@@ -101,6 +119,11 @@ namespace CTVoicer.API.Controllers
         private bool VeiculoExists(int id)
         {
             return _context.Veiculos.Any(e => e.IdVeiculo == id);
+        }
+
+        private bool VeiculoExists(string chassi)
+        {
+            return _context.Veiculos.Any(e => e.Chassi == chassi);
         }
     }
 }

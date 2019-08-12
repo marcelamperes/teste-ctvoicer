@@ -49,8 +49,7 @@ namespace CTVoicer.Negocio.Migrations
 
                     b.Property<int>("IdFrota");
 
-                    b.Property<byte>("NumPassageiros")
-                        .HasColumnType("byte");
+                    b.Property<int>("NumPassageiros");
 
                     b.Property<string>("Tipo")
                         .IsRequired()

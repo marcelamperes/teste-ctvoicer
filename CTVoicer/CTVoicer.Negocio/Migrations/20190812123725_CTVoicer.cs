@@ -29,7 +29,7 @@ namespace CTVoicer.Negocio.Migrations
                     IdFrota = table.Column<int>(nullable: false),
                     Chassi = table.Column<string>(type: "nvarchar(17)", nullable: false),
                     Tipo = table.Column<string>(type: "varchar(10)", nullable: false),
-                    NumPassageiros = table.Column<byte>(type: "byte", nullable: false),
+                    NumPassageiros = table.Column<int>(nullable: false),
                     Cor = table.Column<string>(type: "varchar(50)", nullable: false)
                 },
                 constraints: table =>

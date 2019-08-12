@@ -24,8 +24,7 @@ namespace CTVoicer.Entidades
         //public TipoVeiculoEnum Tipo { get; set; }
 
         [Required]
-        [Column(TypeName = "byte")]
-        public byte NumPassageiros { get; set; }
+        public int NumPassageiros { get; set; }
 
         [Required]
         [Column(TypeName = "varchar(50)")]
