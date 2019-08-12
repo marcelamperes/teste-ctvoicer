@@ -1,0 +1,14 @@
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\bin\Debug\netcoreapp2.2\CTVoicer.Teste.deps.json
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\bin\Debug\netcoreapp2.2\CTVoicer.Teste.runtimeconfig.json
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\bin\Debug\netcoreapp2.2\CTVoicer.Teste.runtimeconfig.dev.json
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\bin\Debug\netcoreapp2.2\CTVoicer.Teste.dll
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\bin\Debug\netcoreapp2.2\CTVoicer.Teste.pdb
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\obj\Debug\netcoreapp2.2\CTVoicer.Teste.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\obj\Debug\netcoreapp2.2\CTVoicer.Teste.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\obj\Debug\netcoreapp2.2\CTVoicer.Teste.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\obj\Debug\netcoreapp2.2\CTVoicer.Teste.AssemblyInfo.cs
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\obj\Debug\netcoreapp2.2\CTVoicer.Teste.dll
+C:\Users\marce\source\repos\teste-ctvoicer\CTVoicer\CTVoicer.Teste\obj\Debug\netcoreapp2.2\CTVoicer.Teste.pdb

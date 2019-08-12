@@ -3,28 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{0F10941E-B5C1-4089-A284-173A4AB01FA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTVoicer.Entidades", "CTVoicer.Entidades\CTVoicer.Entidades.csproj", "{D93498AA-C223-44AA-A5CE-6666A9D6126C}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Web(2)", "Web\", "{6B2C2341-6039-4B70-8F05-869E90F9CE6E}"
-	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_50665"
-		Debug.AspNetCompiler.PhysicalPath = "Web\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50665\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_50665"
-		Release.AspNetCompiler.PhysicalPath = "Web\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50665\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
-		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "50665"
-		SlnRelativePath = "Web\"
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CTVoicer.API", "CTVoicer.API\CTVoicer.API.csproj", "{B4565912-C865-443B-B58F-3E4D6AB029C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTVoicer.Negocio", "CTVoicer.Negocio\CTVoicer.Negocio.csproj", "{7B954117-CEFC-4B4E-8137-E1F021071D7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTVoicer.Teste", "CTVoicer.Teste\CTVoicer.Teste.csproj", "{5716998F-F8A9-43F1-93E1-5C75AA6A0B09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,14 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0F10941E-B5C1-4089-A284-173A4AB01FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F10941E-B5C1-4089-A284-173A4AB01FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F10941E-B5C1-4089-A284-173A4AB01FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F10941E-B5C1-4089-A284-173A4AB01FA7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6B2C2341-6039-4B70-8F05-869E90F9CE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B2C2341-6039-4B70-8F05-869E90F9CE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6B2C2341-6039-4B70-8F05-869E90F9CE6E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B2C2341-6039-4B70-8F05-869E90F9CE6E}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D93498AA-C223-44AA-A5CE-6666A9D6126C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93498AA-C223-44AA-A5CE-6666A9D6126C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93498AA-C223-44AA-A5CE-6666A9D6126C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93498AA-C223-44AA-A5CE-6666A9D6126C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4565912-C865-443B-B58F-3E4D6AB029C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4565912-C865-443B-B58F-3E4D6AB029C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4565912-C865-443B-B58F-3E4D6AB029C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4565912-C865-443B-B58F-3E4D6AB029C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B954117-CEFC-4B4E-8137-E1F021071D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B954117-CEFC-4B4E-8137-E1F021071D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B954117-CEFC-4B4E-8137-E1F021071D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B954117-CEFC-4B4E-8137-E1F021071D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5716998F-F8A9-43F1-93E1-5C75AA6A0B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5716998F-F8A9-43F1-93E1-5C75AA6A0B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5716998F-F8A9-43F1-93E1-5C75AA6A0B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5716998F-F8A9-43F1-93E1-5C75AA6A0B09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
